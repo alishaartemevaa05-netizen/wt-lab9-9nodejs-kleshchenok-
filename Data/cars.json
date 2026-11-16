@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "brand": "Hyundai",
+    "model": "Solaris",
+    "year": 2023,
+    "category": "Эконом",
+    "dailyPrice": 60,
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2022,
+    "category": "Внедорожник",
+    "dailyPrice": 90,
+    "isAvailable": false
+  },
+  {
+    "id": 3,
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": 2024,
+    "category": "Бизнес",
+    "dailyPrice": 180,
+    "isAvailable": true
+  },
+  {
+    "id": 4,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2024,
+    "category": "Комфорт",
+    "dailyPrice": 150,
+    "isAvailable": true
+  },
+  {
+    "id": 5,
+    "brand": "Volkswagen",
+    "model": "Multivan",
+    "year": 2021,
+    "category": "Минивэн",
+    "dailyPrice": 120,
+    "isAvailable": true
+  },
+  {
+    "id": 6,
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "category": "Комфорт",
+    "dailyPrice": 100,
+    "isAvailable": true
+  }
+]

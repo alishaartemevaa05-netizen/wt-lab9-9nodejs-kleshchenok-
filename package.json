@@ -1,0 +1,15 @@
+{
+  "name": "wt-lab9-9nodejs-kleshchenok",
+  "version": "1.0.0",
+  "description": "WT-9: основы Node.js, HTTP-сервер без Express, публикация на Render",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "author": "А.А. Клещёнок",
+  "license": "ISC"
+}
